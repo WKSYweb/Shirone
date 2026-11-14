@@ -130,7 +130,7 @@ export const LinkPresets: Record<string, NavBarLink> = {
 	},
 	GitHub: {
 		name: "GitHub",
-		url: "https://github.com/LyraVoid/Shirone",
+		url: "https://github.com/WKSYweb/",
 		icon: "fa7-brands:github",
 		external: true,
 		pageKey: "github",
@@ -141,25 +141,62 @@ const defaultNavBarConfig: NavBarConfig = {
 	links: [
 		LinkPresets.Home,
 		LinkPresets.Archive,
+		{
+			name: "分类目录",
+			icon: "material-symbols:folder-outline-rounded",
+			children: [
+				LinkPresets.Categories,
+				{
+					name: "自由开源",
+					url: "/archive/?category=自由开源",
+					icon: "material-symbols:folder-outline-rounded",
+				},
+				{
+					name: "技术之外",
+					url: "/archive/?category=技术之外",
+					icon: "material-symbols:folder-outline-rounded",
+				},
+				{
+					name: "兼容性",
+					url: "/archive/?category=兼容性",
+					icon: "material-symbols:folder-outline-rounded",
+				},
+				{
+					name: "改造",
+					url: "/archive/?category=改造",
+					icon: "material-symbols:folder-outline-rounded",
+				},
+				{
+					name: "我的世界",
+					url: "/archive/?category=我的世界",
+					icon: "material-symbols:folder-outline-rounded",
+				},
+				{
+					name: "C++",
+					url: "/archive/?category=C++",
+					icon: "material-symbols:folder-outline-rounded",
+				},
+			],
+		},
+		{
+			name: "网盘",
+			url: "https://pan.sssr7844.cc.cd/",
+			icon: "material-symbols:cloud-outline",
+			external: true,
+		},
 		LinkPresets.Friends,
 		LinkPresets.Moments,
-		LinkPresets.Anime,
-		LinkPresets.Compass,
-		LinkPresets.Albums,
 		{
-			name: i18n(I18nKey.more),
-			icon: "material-symbols:apps-rounded",
+			name: "关于",
+			icon: "material-symbols:info-outline-rounded",
 			children: [
-				LinkPresets.Timeline,
-				LinkPresets.Projects,
-				LinkPresets.Devices,
-				LinkPresets.Games,
-				LinkPresets.Skills,
-				// 分类/标签入口不进导航菜单（避免菜单项过多），预设已登记指向独立页面，
-				// 需要时取消注释即可
-				// LinkPresets.Categories,
-				// LinkPresets.Tags,
 				LinkPresets.About,
+				{
+					name: "个人主页",
+					url: "https://me.sssr7844.cc.cd/",
+					icon: "material-symbols:account-circle-outline",
+					external: true,
+				},
 				LinkPresets.GitHub,
 			],
 		},
