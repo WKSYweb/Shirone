@@ -64,7 +64,7 @@ export const llmsConfig: LlmsConfig = withUserConfig("llms", {
 	 * - 省略或留空时：自动回退使用 `siteConfig.subtitle` 或 `profileConfig.bio`；
 	 * - 填写字符串时：优先使用此处的自定义英文/中文介绍覆盖默认值。
 	 */
-	siteSummary: "",
+	siteSummary: "sssr7844的博客，讨论关于技术、自由开源、我的世界、C++以及一些其它我分享的事情。",
 
 	/**
 	 * 单篇文章在 /llms.txt 目录索引中的摘要截断字数上限（默认 200 字）
@@ -94,19 +94,29 @@ export const llmsConfig: LlmsConfig = withUserConfig("llms", {
 	 */
 	corePages: [
 		{
-			title: "Home",
+			title: "首页",
 			url: "/",
-			description: "Main blog entrance and latest post stream.",
+			description: "最新文章。",
 		},
 		{
-			title: "About",
-			url: "/about/",
-			description: "Author profile, technical stack, and background.",
-		},
-		{
-			title: "Archive",
+			title: "归档",
 			url: "/archive/",
-			description: "Chronological index of all published writings.",
+			description: "全部文章按时间索引。",
+		},
+		{
+			title: "分类",
+			url: "/categories/",
+			description: "自由开源、技术之外、兼容性、改造、我的世界与 C++。",
+		},
+		{
+			title: "友链",
+			url: "/friends/",
+			description: "友情链接。",
+		},
+		{
+			title: "关于",
+			url: "/about/",
+			description: "作者资料：Linux 下游开发、自由开源，现居深圳。",
 		},
 	],
 
@@ -128,5 +138,32 @@ export const llmsConfig: LlmsConfig = withUserConfig("llms", {
 	 * ]
 	 * ```
 	 */
-	customSections: [],
+	customSections: [
+		{
+			title: "站外入口",
+			description: "主站页头上的站外链接。",
+			items: [
+				{
+					title: "网盘",
+					url: "https://pan.sssr7844.cc.cd/",
+					description: "个人网盘。",
+				},
+				{
+					title: "个人主页",
+					url: "https://me.sssr7844.cc.cd/",
+					description: "个人主页。",
+				},
+				{
+					title: "GitHub",
+					url: "https://github.com/WKSYweb/",
+					description: "WKSYweb 的公开仓库。",
+				},
+				{
+					title: "旧站",
+					url: "https://sssr7844.cc.cd/",
+					description: "WordPress 主站，当前文章仍在这里。",
+				},
+			],
+		},
+	],
 });
