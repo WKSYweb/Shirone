@@ -14,7 +14,7 @@ draft: false
 
 ## 1.软件上看看
 
-![](https://wordpress-a07a3.wasmer.app/wp-content/uploads/2026/07/1785322558-1785212667-IMG_20260704_094822-scaled-1-768x1024.jpg)*安卓8.1？*
+![](https://s41.ax1x.com/2026/11/15/pnTT6AS.jpg)*安卓8.1？*
 
 **1.1 安卓版本**
 
@@ -40,7 +40,7 @@ draft: false
 
 浏览器简直是重灾区，没有办法安装新版的因为安卓版本太低，那些对安卓版本没需求的浏览器全都在用系统自带的网页解析器
 
-![](https://wordpress-a07a3.wasmer.app/wp-content/uploads/2026/07/1785322622-1785213318-ea0f96ae-a5f2-4bf6-98c6-ae986cd55f6f-scaled-1-1024x768.jpg)*浏览器问题*
+![](https://s41.ax1x.com/2026/11/15/pnTTctg.jpg)*浏览器问题*
 
 ## 2.硬件上搞搞
 
@@ -50,13 +50,13 @@ draft: false
 
 我遍历了一下大部分的命令都没有，这不是标准的Android Devices，至少没有按照Google的标准来设计。
 
-![](https://wordpress-a07a3.wasmer.app/wp-content/uploads/2026/07/1785322660-1785213469-IMG_20260704_095630-scaled-1-768x1024.jpg)*神秘fastboot*
+![](https://s41.ax1x.com/2026/11/15/pnTTs78.jpg)*神秘fastboot*
 
 然后呢就是，为数不多支持安卓四的跑分平台
 
 他起来比**同期的**要好很多，但要注意一下，这里指的是**安卓4同期的**
 
-![](https://sssr7844.cc.cd/wp-content/uploads/2026/07/1785369323-1785214515-IMG_20260724_162453-scaled-1-768x1024.jpg)*跑分成绩*
+![](https://s41.ax1x.com/2026/11/15/pnTTghQ.jpg)*跑分成绩*
 
 ## 3.总结一下
 
