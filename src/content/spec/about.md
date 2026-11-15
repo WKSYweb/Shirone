@@ -1,26 +1,18 @@
-# About Shirone
+> 某不知名 Linux 下游开发者；某自由开源软件倡导者；现居深圳市。
 
-Welcome to the demo site of **Shirone** (白音) — an expressive, anime-inspired blog theme built on the **Material 3 Expressive (M3E)** design system.
+这句话会在每个博文的下方展现，或许你也看过好几次了。
 
-::github{repo="LyraVoid/Shirone"}
+但其实……
 
-## ✦ Design & Philosophy
+## 大致情况
 
-Shirone aims to combine the warmth of expressive anime aesthetics with the rigor of modern web engineering:
+我是 **sssr7844**，大部分网名都是这个，还有 **404 Not-Found**（同名的满天飞）、**404-KLP**（用得很少）、**WKSYweb**（几乎不用）。实际上，这一串看不出来是什么的东西，就是我的 Minecraft 基岩版 ID。下面是一些基本信息：
 
-- **Dynamic Chromatic Spell**: Full dynamic HCT palette generation responding seamlessly to light/dark modes and user preferences with zero layout shifts.
-- **Seamless Shell Navigation**: Persistent application shell driven by Swup for continuous music playback, smooth page transitions, and preserved state.
-- **Rich Story Grimoire**: Markdown and MDX authoring with KaTeX math, Mermaid diagrams, interactive admonitions, expressive code blocks, and adaptive image galleries.
-- **Zero Extra Burden**: Optional integrations (comments, analytics, music widgets) load dynamically on demand — zero DOM footprint and zero bundle overhead when disabled.
+- 是个 MC 玩家
+- 某不知名高中生
+- 操作系统是 Nyarch Linux（主力系统）
+- 是个自由开源软件倡导者，Linux 下游开发者
+- 一个喜欢鼓捣电脑的人
+- 一个语文很差的人
 
-## ✦ Tech Stack
-
-- **Framework**: [Astro 7](https://astro.build/) & [Svelte 5](https://svelte.dev/) (Runes-driven islands)
-- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/) & [Stylus](https://stylus-lang.com/)
-- **Design Standard**: [Material 3 Expressive](https://m3.material.io/)
-- **Typography**: Outfit & Yozai (悠哉圆体) with automated build-time subsetting
-- **Search Engine**: [Pagefind](https://pagefind.app/) offline full-text search
-
-## ✦ Credits
-
-- **Font**: [Yozai Font (悠哉字体)](https://github.com/lxgw/yozai-font) by [lxgw](https://github.com/lxgw)
+如果你有什么想说的，可以在下面评论，就当这里是留言板吧！
