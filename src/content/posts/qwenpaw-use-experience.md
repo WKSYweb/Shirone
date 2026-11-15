@@ -2,7 +2,7 @@
 title: 'QwenPaw使用体验（外加白嫖服务器）'
 date: '2026-08-19T15:38:58'
 modified: '2026-10-31T18:55:00'
-slug: 'qwenpaw-use-xperience'
+slug: 'qwenpaw-use-experience'
 categories: ["改造"]
 tags: ["Agent", "AI", "QwenPaw"]
 published: true
