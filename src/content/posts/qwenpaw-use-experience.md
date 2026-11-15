@@ -1,10 +1,10 @@
 ---
-title: 'QwenPaw使用体验（外加白嫖服务器）'
-pubDate: '2026-08-19T15:38:58'
-modified: '2026-10-31T18:55:00'
-slug: 'qwenpaw-use-experience'
-categories: ["改造"]
+title: "QwenPaw使用体验（外加白嫖服务器）"
+published: 2026-08-19
+description: "QwenPaw：免费云端Agent还能白嫖阿里云ECS？实测挂载QQ/微信当机器人、跑定时任务，免费模型虽弱但可接自定义API。4G内存、30G SSD、双铂金线程，却无公网IP、疑似套壳容器、SSH需CF隧道、48h休眠"
 tags: ["Agent", "AI", "QwenPaw"]
+category: "改造"
+draft: false
 ---
 
 > 
