@@ -76,7 +76,6 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 				"某不知名 Linux 下游开发者",
 				"自由开源软件倡导者",
 				"现居深圳市",
-				"十年不停更，十年不闭站",
 			],
 			typewriter: {
 				// 副标题逐字显示；关闭后直接显示完整副标题。
