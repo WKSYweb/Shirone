@@ -186,6 +186,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://www.fuzhoupyy.work/",
 		tags: ["新朋友"],
 	},
+	{
+		Id: 22,
+		title: "昭鸢笺",
+        siteurl: "https://blog.mibase.top",
+        imgurl: "https://blog.mibase.top/img/miro.jpg",
+        desc: "昭有明朗向远之意，鸢乘风而上，笺以载笔墨见闻",
+		tags: ["技术之最"],
+    },
 ];
 
 // 获取所有友情链接数据（稳定顺序，测试可复现）
