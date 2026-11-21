@@ -2,7 +2,7 @@
 title: "Astro Shiroe 配置、迁移及优化"
 published: 2026-11-21
 description: "本文记录从 WordPress 迁移至 Astro 的完整实战流程，涵盖 Shirone V2.0 主题配置、Markdown 文章迁移、Vercel 部署与中国访问优化，并整理常见配置错误和收尾检查清单，助你快速搭建高速静态博客。"
-tags: ["Astro,改造,服务器"]
+tags: ["Astro","改造","服务器"]
 category: "改造"
 draft: false
 ---
